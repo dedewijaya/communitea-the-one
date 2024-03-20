@@ -1,0 +1,22 @@
+{
+  "name": "communitea-the-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedewijaya/communitea-the-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedewijaya/communitea-the-one/issues"
+  },
+  "homepage": "https://github.com/dedewijaya/communitea-the-one#readme",
+  "dependencies": {
+    "dede-tea": "^1.1.4"
+  }
+}
